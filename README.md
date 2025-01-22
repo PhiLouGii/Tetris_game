@@ -27,19 +27,29 @@
 - ## Installation Instructions 📥
   1. Clone the repository:
      ``` bash 
-     git clone https://github.com/yourusername/tetris-game.git ```
+     git clone https://github.com/yourusername/tetris-game.git 
   2. Navigate to the project directory:
      ``` bash 
-     cd tetris-game ```
+     cd tetris-game 
   3. Install the required dependencies:
      ``` bash
-     pip install pygame ```
+     pip install pygame 
   4. Run the game:
      ``` bash
-     python game.py ```
+     python game.py 
      
 - ## Screenshots 📸
 ![Screenshot 2025-01-23 005924](https://github.com/user-attachments/assets/6fe9cfce-e185-40b9-8ee4-a2b0d9ff0a56)
 ![Screenshot 2025-01-23 005946](https://github.com/user-attachments/assets/c2b8b8eb-9884-4001-9096-5ee8ac8cc8fb)
 
+- ## Technologies Used 🖥️
+  1. Python: The primary programming language.
+  2. Pygame: For handling graphics, input, and game loop.
 
+- ## Future Enhancements ⌨️
+  1. Adding a high-score leaderboard.
+  2. Implementing multiplayer mode.
+  3. Introducing different themes or skins for the game.
+
+- ## Contribution 🤝
+  Contributions are welcome! Feel free to fork this repository and submit pull requests. If you have ideas for improvements or find any bugs, please open an issue. 
