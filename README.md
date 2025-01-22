@@ -54,5 +54,11 @@
 - ## Contribution 🫱🏾‍🫲🏽
   Contributions are welcome! Feel free to fork this repository and submit pull requests. If you have ideas for improvements or find any bugs, please open an issue.
 
+- ## Acknowledgments 👍🏾
+  - Inspired by the classic Tetris game.
+  - Special thanks to the Python and Pygame to the documentation.
+
 - ## Author 👩🏾‍💻
   This was entirely done by Philippa L. Giibwa. You can reach me on [pgiibwa04@gmail.com]
+
+Please leave a star on my repo. Thank you! ⭐
