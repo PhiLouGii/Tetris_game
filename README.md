@@ -1,2 +1,4 @@
-# Tetris_game
-Python code for tetris
+# Tetris Game
+- ## Project title ✏️
+Tetris Game
+A classic Tetris game built using Python.
