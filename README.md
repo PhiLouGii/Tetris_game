@@ -26,8 +26,8 @@ The game ends when the pieces stack up to the top of the grid.
 
 - ## Installation Instructions
   1. Clone the repository:
-     ``` bash ```
-     git clone https://github.com/yourusername/tetris-game.git
+     ``` bash 
+     git clone https://github.com/yourusername/tetris-game.git ```
   2. Navigate to the project directory:
      ``` bash ```
      cd tetris-game
