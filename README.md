@@ -51,5 +51,8 @@
   2. Implementing multiplayer mode.
   3. Introducing different themes or skins for the game.
 
-- ## Contribution 🤝
-  Contributions are welcome! Feel free to fork this repository and submit pull requests. If you have ideas for improvements or find any bugs, please open an issue. 
+- ## Contribution 🫱🏾‍🫲🏽
+  Contributions are welcome! Feel free to fork this repository and submit pull requests. If you have ideas for improvements or find any bugs, please open an issue.
+
+- ## Author 👩🏾‍💻
+  This was entirely done by Philippa L. Giibwa. You can reach me on [pgiibwa04@gmail.com]
